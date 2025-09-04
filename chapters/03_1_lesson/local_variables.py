@@ -1,11 +1,11 @@
 
-message = "Hello, out there!"
+def message():
+    print("Hello, in there!")
 
 def print_message():
-    message = "Hello, in here!"
-    print(message)
+    print("Hello, out there!")   
 
 
-print(message)
+message()
 print_message()
-print(message)
+message()
