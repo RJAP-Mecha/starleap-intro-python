@@ -55,3 +55,5 @@ if (True):
         print("Go ahead!")
     else:
         print("What country are you in??")
+        
+light_color == "red"
