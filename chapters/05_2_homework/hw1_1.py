@@ -20,9 +20,24 @@
 
 
 # print("********** Homework 1 Exercise 2 **********")
-text = input('First Name')
-print(text)
-print(type(text))
+FN = input('First Name')
+print('Hi,' + FN + '!')
+
+LN= input('Last Name')
+print('Hi,' + FN + ' ' + LN + '!' )
+
+MO = input('What month were you born in')
+print('cool')
+
+DAY = input('What day were you born on')
+print('cool')
+
+YR = input('what year were you born in')
+print(cool)
+
+if FN + LN = (Jasper Paul)
+
+
 
 
 # print("Homework 1 Exercise 2: Not implemented") # Delete this line when you write your code!
