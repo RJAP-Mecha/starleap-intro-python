@@ -20,22 +20,22 @@
 
 
 # print("********** Homework 1 Exercise 2 **********")
-FN = input('First Name')
+FN = input('First Name')  
 print('Hi,' + FN + '!')
 
 LN= input('Last Name')
 print('Hi,' + FN + ' ' + LN + '!' )
 
 MO = input('What month were you born in')
-print('cool')
+print(MO)
 
 DAY = input('What day were you born on')
-print('cool')
+print(DAY)
 
 YR = input('what year were you born in')
-print(cool)
+print(YR)
 
-if FN + LN = (Jasper Paul)
+print(F"{FN} {LN} was born on {MO} {DAY} {YR} !")
 
 
 
